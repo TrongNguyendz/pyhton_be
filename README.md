@@ -1,8 +1,3 @@
-À ok hiểu rồi 🙌, bạn làm **backend bằng Python** (mình thấy bạn có `app.py`, `dss_logic.py`, `models.py`, DB SQLite `cosmetics.db`).
-
-Mình sẽ viết cho bạn một file **`README.md`** chuẩn cho project Python này.
-
----
 
 ## 📄 README.md (gợi ý cho dự án của bạn)
 
