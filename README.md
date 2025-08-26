@@ -12,7 +12,7 @@ Mình sẽ viết cho bạn một file **`README.md`** chuẩn cho project Pytho
 ## 🚀 Giới thiệu
 Đây là backend API cho hệ thống **Cosmetic Decision Support System**.  
 Dự án được viết bằng **Python (Flask)** và sử dụng **SQLite** để lưu trữ dữ liệu.
-
+ 
 ---
 
 ## 📂 Cấu trúc thư mục
