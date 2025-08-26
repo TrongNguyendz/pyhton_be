@@ -1,6 +1,4 @@
 
-## 📄 README.md (gợi ý cho dự án của bạn)
-
 ```markdown
 # Cosmetic DSS - Backend (Python)
 
